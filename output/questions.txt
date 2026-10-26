@@ -1,0 +1,55 @@
+Thu do cua Viet Nam la gi?
+A. TP. Ho Chi Minh
+B. Ha Noi
+C. Da Nang
+D. Hue
+Correct: B
+
+Ngon ngu C++ ho tro lap trinh huong doi tuong hay khong?
+A. Co
+B. Khong
+C. Chi ho tro mot phan qua thu vien ngoai
+D. Chi tu C++20 tro di
+Correct: A
+
+Trong C++, tu khoa nao dung de khai bao mot lop?
+A. struct
+B. object
+C. class
+D. define
+Correct: C
+
+Do phuc tap thoi gian trung binh cua thuat toan tim kiem nhi phan la gi?
+A. O(n)
+B. O(n^2)
+C. O(log n)
+D. O(1)
+Correct: C
+
+STL cua C++ cung cap container nao tuong tu ArrayList trong Java?
+A. list
+B. vector
+C. map
+D. set
+Correct: B
+
+Toan tu nao dung de cap phat dong bo nho trong C++?
+A. malloc
+B. alloc
+C. new
+D. create
+Correct: C
+
+Con tro thong minh nao trong C++11 khong cho phep chia se quyen so huu?
+A. shared_ptr
+B. unique_ptr
+C. weak_ptr
+D. auto_ptr
+Correct: B
+
+Ham nao dung de lay kich thuoc cua mot vector trong C++?
+A. length()
+B. size()
+C. count()
+D. getSize()
+Correct: B
